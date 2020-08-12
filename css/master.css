@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: acumin-pro, sans-serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+  font-style: normal;
+  color: #66BFBF;
+}
+
+h4 {
+  font-family: acumin-pro, sans-serif;
+  font-weight: 200;
+  font-size: 1rem;
+  font-style: normal;
+  color: #40514E;
+}
+
+hr {
+  width: 5%;
+  margin: 100px auto;
+  border: 7px dotted lightgrey;
+  border-top: none;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+  margin-bottom: 70px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: #66BFBF;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.selfie {
+  height: 200px;
+  border-radius: 150px;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.concept-illustration-image {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.storyboard-image {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.graphic-design-image {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-design-development-image {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-description {
+  font-weight: 200;
+}
+
+.button {
+  display: block;
+  width: 10%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #EAF6F6;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #66BFBF;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: #11999E;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
